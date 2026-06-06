@@ -1,0 +1,11 @@
+fredapi
+eurostat
+linearmodels
+pandas
+numpy
+matplotlib
+seaborn
+requests
+openpyxl
+jupyter
+nbconvert
